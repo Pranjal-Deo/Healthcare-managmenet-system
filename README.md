@@ -19,3 +19,5 @@ This repository contains the source code for a comprehensive **Healthcare Manage
 - **/models**: Mongoose schemas and models for MongoDB.
 - **/routes**: API endpoints for handling CRUD operations.
 - **/config**: Configuration files, including environment variables and database settings.
+
+Live at : https://healthcare-managmenet-system.onrender.com
